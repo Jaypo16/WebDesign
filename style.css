@@ -1,0 +1,180 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 40px;
+    
+}
+
+.box {
+    border: 1px solid black;
+    margin-bottom: 50px;
+
+}
+
+h2 {
+    
+}
+
+.margin {
+  margin: 30px;
+  text-align: center;
+  font-size: 38px;
+  
+
+}
+
+.fonts {
+    
+    display: inline-block;
+    padding: 30px;
+    margin: 30px;
+   
+}
+
+/*Text Styles*/
+
+
+.textstyles-1 {
+
+    font-family:"Times New Roman";
+    font-weight: 700;
+    font-size: 34px
+}
+
+.textstyles-2 {
+  font-family: 'Courier New';
+  font-weight: 500;
+  font-size: 24px;
+}
+
+
+
+
+.textstyles-3 {
+  font-family:'Franklin Gothic Medium', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+
+
+
+
+ /*Roboto styling*/
+
+  .roboto-medium {
+    
+        font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-style: none;
+  }
+  
+  .roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+  .roboto-black {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+
+  .roboto-medium-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+
+  
+
+  
+
+  /*Ubuntu Styling*/
+
+  .ubuntu-regular {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .ubuntu-light {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+  .ubuntu-medium-italic {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+
+  .ubuntu-bold-italic {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+
+  /*Poppins*/
+
+  .poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .poppins-regular-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+
+  .poppins-thin {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+
+  .poppins-black-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+
+  /*Color Boxes*/
+
+  .colors, .colors-2, .colors-3, .colors-4, .colors-5, .colors-6 {
+    display: inline-block;
+    padding: 60px;
+    margin: 40px;
+  }
+ 
+
+  .colors {
+    background-color: #b4b4b4;
+  }
+
+  .colors-2 {
+
+    background-color: #ff0000;
+  }
+
+  .colors-3 {
+    background-color: #3cb371;
+  }
+
+  .colors-4 {
+    background-color: #4993f6;
+  }
+
+  .colors-5 {
+    background-color: #4eff56;
+  }
+
+  .colors-6 {
+    background-color: #8d1e56;
+  }
